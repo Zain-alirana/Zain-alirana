@@ -1,4 +1,4 @@
-![logo](https://github.com/Zain-alirana/Zain-alirana/blob/main/images.png)
+![logo](https://github.com/Zain-alirana/Zain-alirana/blob/main/bannrr.png)
 ## Hi there 👋
 
 <!--
